@@ -1,4 +1,4 @@
-# Images-and-Video
+# embedding-images-and-videos
 # HTML Mock Up Page Using HTML 5
 
 This is a small HTML project<br>
