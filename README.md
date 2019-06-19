@@ -1,6 +1,6 @@
 # Embedding Images and Videos
 ### HTML Mock Up page using HTML basics
-#### Project #1
+#### Project 1
 <b>Clone:</b> Youtube Video Page<br>
 <b>Live Page:</b> https://fsolm.github.io/embedding-images-and-videos/
 
