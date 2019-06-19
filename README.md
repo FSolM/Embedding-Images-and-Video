@@ -1,7 +1,9 @@
-# embedding-images-and-videos
-# HTML Mock Up Page Using HTML 5
+# Embedding Images and Videos
+### HTML Mock Up page using HTML basics
+#### Project #1:
+<b>Clone:</b> Youtube Video Page<br>
+<b>Live Page:</b>
 
-This is a small HTML project<br>
-Clone: Youtube Video Page<br><br>
-Carlos Sol: @FSolM<br>
-Eapen Zacharias: @eapenzacharias
+#### Created by:
+Carlos Sol: <a href="https://github.com/FSolM">@FSolM</a><br>
+Eapen Zacharias: <a href="https://github.com/eapenzacharias">@eapenzacharias</a>
